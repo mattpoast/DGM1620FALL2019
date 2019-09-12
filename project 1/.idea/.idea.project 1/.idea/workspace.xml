@@ -12,9 +12,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Sphere.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/WooHoo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -29,6 +33,11 @@
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Variables.cs" />
         <option value="$PROJECT_DIR$/Assets/Sphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/DogClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/CatClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/ParticleControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/WooHoo.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
       </list>
     </option>
   </component>
@@ -90,6 +99,7 @@
       <workItem from="1567785788112" duration="1992000" />
       <workItem from="1568147863955" duration="38000" />
       <workItem from="1568147959407" duration="3415000" />
+      <workItem from="1568320014152" duration="3697000" />
     </task>
     <servers />
   </component>
