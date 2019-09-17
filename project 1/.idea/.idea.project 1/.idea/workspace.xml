@@ -14,7 +14,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/WooHoo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Movment.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
@@ -38,6 +38,7 @@
         <option value="$PROJECT_DIR$/Assets/ParticleControl.cs" />
         <option value="$PROJECT_DIR$/Assets/WooHoo.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movment.cs" />
       </list>
     </option>
   </component>
@@ -100,6 +101,7 @@
       <workItem from="1568147863955" duration="38000" />
       <workItem from="1568147959407" duration="3415000" />
       <workItem from="1568320014152" duration="3697000" />
+      <workItem from="1568751871695" duration="4725000" />
     </task>
     <servers />
   </component>
