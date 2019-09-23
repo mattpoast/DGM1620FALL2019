@@ -2,9 +2,9 @@
 
 public class Movment : MonoBehaviour
 {
-    public float gravity = -3f;
+    public float gravity = -9.81f;
     public float speed = 1f;
-   public  float jumpSpeed= 10f;
+   public float jumpSpeed = 30f;
    
     private Vector3 position;
     public CharacterController controller;
