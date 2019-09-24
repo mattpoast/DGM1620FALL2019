@@ -12,6 +12,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/IfStatments.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Movment.cs" root0="FORCE_HIGHLIGHTING" />
@@ -39,6 +40,7 @@
         <option value="$PROJECT_DIR$/Assets/WooHoo.cs" />
         <option value="$PROJECT_DIR$/Assets/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Movment.cs" />
+        <option value="$PROJECT_DIR$/Assets/IfStatments.cs" />
       </list>
     </option>
   </component>
@@ -103,6 +105,7 @@
       <workItem from="1568320014152" duration="3697000" />
       <workItem from="1568751871695" duration="4725000" />
       <workItem from="1568924765370" duration="1479000" />
+      <workItem from="1569356642329" duration="2392000" />
     </task>
     <servers />
   </component>
