@@ -63,16 +63,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ApplyForce.cs" />
-    <Compile Include="Assets\CatClass.cs" />
-    <Compile Include="Assets\DogClass.cs" />
-    <Compile Include="Assets\FloatData.cs" />
-    <Compile Include="Assets\IfStatments.cs" />
-    <Compile Include="Assets\MouseEvents.cs" />
-    <Compile Include="Assets\Movment.cs" />
-    <Compile Include="Assets\ParticleControl.cs" />
-    <Compile Include="Assets\TriggerEvents.cs" />
-    <Compile Include="Assets\Variables.cs" />
+    <Compile Include="Assets\Scripts\ApplyForce.cs" />
+    <Compile Include="Assets\Scripts\FloatData.cs" />
+    <Compile Include="Assets\Scripts\Functions.cs" />
+    <Compile Include="Assets\Scripts\IfStatments.cs" />
+    <Compile Include="Assets\Scripts\MouseEvents.cs" />
+    <Compile Include="Assets\Scripts\Movment.cs" />
+    <Compile Include="Assets\Scripts\ParticleControl.cs" />
+    <Compile Include="Assets\Scripts\PlayerData.cs" />
+    <Compile Include="Assets\Scripts\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\Variables.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/10734650/DGM1620FALL2019/project 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
