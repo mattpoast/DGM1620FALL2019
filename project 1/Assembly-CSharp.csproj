@@ -71,6 +71,7 @@
     <Compile Include="Assets\Scripts\Movment.cs" />
     <Compile Include="Assets\Scripts\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\PlayerData.cs" />
+    <Compile Include="Assets\Scripts\PlayerDataA.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
     <Compile Include="Assets\Scripts\Variables.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">

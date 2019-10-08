@@ -13,7 +13,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Functions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerDataA.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -38,6 +41,7 @@
         <option value="$PROJECT_DIR$/Assets/ApplyForce.cs" />
         <option value="$PROJECT_DIR$/Assets/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDataA.cs" />
       </list>
     </option>
   </component>
@@ -106,6 +110,7 @@
       <workItem from="1569361233420" duration="652000" />
       <workItem from="1569530835483" duration="3374000" />
       <workItem from="1569605148087" duration="1325000" />
+      <workItem from="1570567515433" duration="2751000" />
     </task>
     <servers />
   </component>
