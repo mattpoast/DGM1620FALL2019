@@ -15,6 +15,7 @@
           <e p="Movment.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="PlayerData.cs" t="Include" />
+          <e p="PlayerDataA.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
         </e>
