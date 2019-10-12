@@ -8,14 +8,18 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="ApplyForce.cs" t="Include" />
-          <e p="FloatData.cs" t="Include" />
+          <e p="DataScripts" t="Include">
+            <e p="ClothesData.cs" t="Include" />
+            <e p="FloatData.cs" t="Include" />
+            <e p="GameArtData.cs" t="Include" />
+            <e p="PlayerData.cs" t="Include" />
+            <e p="WeaponData.cs" t="Include" />
+          </e>
           <e p="Functions.cs" t="Include" />
           <e p="IfStatments.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="Movment.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
-          <e p="PlayerData.cs" t="Include" />
-          <e p="PlayerDataA.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
         </e>
