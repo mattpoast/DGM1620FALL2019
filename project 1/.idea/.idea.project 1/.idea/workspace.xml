@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/CollectionData.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -49,6 +50,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/ClothesData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DataScripts/CollectionData.cs" />
       </list>
     </option>
   </component>
@@ -120,6 +123,7 @@
       <workItem from="1570567515433" duration="2892000" />
       <workItem from="1570739426784" duration="4239000" />
       <workItem from="1571171593048" duration="1536000" />
+      <workItem from="1571776105098" duration="3802000" />
     </task>
     <servers />
   </component>

@@ -10,6 +10,7 @@
           <e p="ApplyForce.cs" t="Include" />
           <e p="DataScripts" t="Include">
             <e p="ClothesData.cs" t="Include" />
+            <e p="CollectionData.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="GameArtData.cs" t="Include" />
             <e p="PlayerData.cs" t="Include" />
