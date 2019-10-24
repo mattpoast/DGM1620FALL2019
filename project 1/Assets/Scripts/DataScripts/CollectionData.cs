@@ -7,6 +7,9 @@ public class CollectionData : ScriptableObject
 
    public void AddData(GameArtData obj)
    {
-      collectionList.Add(obj);
+      foreach (var gameArt in collectionList)
+      {
+         Debug.Log(gameArt);
+      }
    }
 }
