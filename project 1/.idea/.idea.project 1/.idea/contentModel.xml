@@ -16,6 +16,9 @@
             <e p="PlayerData.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
+          <e p="DeBugger.cs" t="Include" />
+          <e p="DebuggerHandler.cs" t="Include" />
+          <e p="enumSwitch.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
           <e p="IfStatments.cs" t="Include" />
           <e p="Lists.cs" t="Include" />
