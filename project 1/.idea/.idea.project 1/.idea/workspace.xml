@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/enumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeBugger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -60,6 +61,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/enumSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DeBugger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DebuggerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui.cs" />
       </list>
     </option>
   </component>
@@ -70,7 +72,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,6 +137,7 @@
       <workItem from="1571949977464" duration="2080000" />
       <workItem from="1572380762222" duration="3475000" />
       <workItem from="1572817819873" duration="496000" />
+      <workItem from="1572884756352" duration="925000" />
     </task>
     <servers />
   </component>

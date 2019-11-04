@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scripts\Movment.cs" />
     <Compile Include="Assets\Scripts\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\Ui.cs" />
     <Compile Include="Assets\Scripts\Variables.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/mattpoast/Desktop/DGM1620FALL2019/project 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
