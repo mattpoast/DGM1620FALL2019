@@ -1,15 +1,28 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Events;
+﻿using UnityEngine;
 
 public class MouseEvents : MonoBehaviour
 {
-   public ParticleSystem mouseDown;
 
+   private Camera cam;
+   public Vector3Data data;
+   
+   
+   private void start()
+   {
+      cam = Camera.main;
+      
+   }
+   
    private void OnMouseDown()
    {
-      mouseDown.Emit(100);
+       
+       var ray = cam.ScreenPointToRay(Input.mousePosition);
+
+       if (Physics.Raycast(ray, out var hit))
+       {
+           data.value = hit.point;
+       }
+       
+       Debug.Log(hit);
    }
 }

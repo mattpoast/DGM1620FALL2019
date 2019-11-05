@@ -8,5 +8,4 @@ public class DebuggerHandler : MonoBehaviour
     {
         debuggerObj = newDeBuggerObj;
     }
-    void Update
 }

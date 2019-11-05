@@ -3,7 +3,7 @@
 public class Functions : MonoBehaviour
 {
     public string playerName;
-    public GameObject player;
+    public GameObject ghost;
     void Start()
     {
         Instantiate(ConfigGameObject());
@@ -11,13 +11,13 @@ public class Functions : MonoBehaviour
 
     private GameObject ConfigGameObject()
     {
-        player.layer = 0;
-        player.active = true;
-        player.tag = "player";
-        player.transform.position = Vector3.zero;
-        player.name = playerName;
+        ghost.layer = 0;
+        ghost.active = true;
+        ghost.tag = "player";
+        ghost.transform.position = Vector3.zero;
+        ghost.name = playerName;
 
-        return player;
+        return ghost;
     }
     
 
