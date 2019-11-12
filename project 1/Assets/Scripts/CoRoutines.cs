@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Dynamic;
 using UnityEngine;
+using UnityEngine.XR.WSA.Input;
 
 public class CoRoutines : MonoBehaviour
 {
@@ -16,5 +18,4 @@ public class CoRoutines : MonoBehaviour
         yield return new WaitForSeconds(1f);
         Debug.Log("GO!");
 }
-
 }
