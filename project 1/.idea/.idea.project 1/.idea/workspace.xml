@@ -18,16 +18,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/CollectionData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoRoutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/enumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lists.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ai/AiNav.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoRoutines.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeBugger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -65,11 +65,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/DeBugger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Ui.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DebuggerHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Ai/AiNav.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CodeRutiens.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ai/AiNav.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoRoutines.cs" />
       </list>
     </option>
@@ -151,6 +151,7 @@
       <workItem from="1572989531897" duration="4267000" />
       <workItem from="1573593675694" duration="3142000" />
       <workItem from="1573598258947" duration="278000" />
+      <workItem from="1573767043751" duration="4026000" />
     </task>
     <servers />
   </component>

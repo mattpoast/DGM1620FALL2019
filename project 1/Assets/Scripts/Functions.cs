@@ -13,7 +13,7 @@ public class Functions : MonoBehaviour
     {
         ghost.layer = 0;
         ghost.active = true;
-        ghost.tag = "player";
+        ghost.tag = "Ghost";
         ghost.transform.position = Vector3.zero;
         ghost.name = playerName;
 
