@@ -22,13 +22,14 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/enumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Functions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lists.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ai/AiNav.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CoRoutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lists.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeBugger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ai/AiNav.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonInput.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +72,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Ai/AiNav.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoRoutines.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonInput.cs" />
       </list>
     </option>
   </component>
@@ -152,6 +154,7 @@
       <workItem from="1573593675694" duration="3142000" />
       <workItem from="1573598258947" duration="278000" />
       <workItem from="1573767043751" duration="4026000" />
+      <workItem from="1574203590327" duration="213000" />
     </task>
     <servers />
   </component>
