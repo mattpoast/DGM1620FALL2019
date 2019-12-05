@@ -63,7 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Resources\prefabs\Flip.cs" />
     <Compile Include="Assets\Scripts\Ai\AiNav.cs" />
     <Compile Include="Assets\Scripts\ApplyForce.cs" />
     <Compile Include="Assets\Scripts\ButtonInput.cs" />
@@ -78,6 +77,7 @@
     <Compile Include="Assets\Scripts\DebuggerHandler.cs" />
     <Compile Include="Assets\Scripts\enumSwitch.cs" />
     <Compile Include="Assets\Scripts\FireWeapon.cs" />
+    <Compile Include="Assets\Scripts\Flip.cs" />
     <Compile Include="Assets\Scripts\Functions.cs" />
     <Compile Include="Assets\Scripts\IfStatments.cs" />
     <Compile Include="Assets\Scripts\Lists.cs" />
