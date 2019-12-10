@@ -301,6 +301,7 @@
 "Assets/Scripts/ApplyForce.cs"
 "Assets/Scripts/ButtonInput.cs"
 "Assets/Scripts/CameraMovement.cs"
+"Assets/Scripts/CoinCollection.cs"
 "Assets/Scripts/CoRoutines.cs"
 "Assets/Scripts/DataScripts/ClothesData.cs"
 "Assets/Scripts/DataScripts/CollectionData.cs"

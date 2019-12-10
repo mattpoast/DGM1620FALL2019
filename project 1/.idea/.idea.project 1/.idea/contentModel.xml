@@ -11,8 +11,9 @@
           <e p="ApplyForce.cs" t="Include" />
           <e p="ButtonInput.cs" t="Include" />
           <e p="CameraMovement.cs" t="Include" />
+          <e p="Coin.cs" t="Include" />
+          <e p="CoinCollection.cs" t="Include" />
           <e p="CoRoutines.cs" t="Include" />
-          <e p="Counter.cs" t="Include" />
           <e p="DataScripts" t="Include">
             <e p="ClothesData.cs" t="Include" />
             <e p="CollectionData.cs" t="Include" />
