@@ -20,6 +20,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeBugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
@@ -89,6 +90,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Counter.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CoinCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
       </list>
     </option>
   </component>
@@ -179,7 +181,7 @@
       <workItem from="1575939733155" duration="3838000" />
       <workItem from="1575944923113" duration="224000" />
       <workItem from="1575945210870" duration="839000" />
-      <workItem from="1576000770937" duration="1504000" />
+      <workItem from="1576000770937" duration="2614000" />
     </task>
     <servers />
   </component>
