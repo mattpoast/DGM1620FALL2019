@@ -16,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelfDestruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/enumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonInput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataScripts/CollectionData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Functions.cs" root0="FORCE_HIGHLIGHTING" />
@@ -28,6 +29,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Counter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeBugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,10 +81,11 @@
         <option value="$PROJECT_DIR$/Assets/Resources/prefabs/flip.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SelfDestruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Resources/prefabs/Flip.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FireWeapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Fire.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Counter.cs" />
       </list>
     </option>
   </component>
@@ -169,7 +172,10 @@
       <workItem from="1575407864713" duration="4818000" />
       <workItem from="1575582562662" duration="2198000" />
       <workItem from="1575937138036" duration="25000" />
-      <workItem from="1575937581787" duration="421000" />
+      <workItem from="1575937581787" duration="954000" />
+      <workItem from="1575939733155" duration="3838000" />
+      <workItem from="1575944923113" duration="224000" />
+      <workItem from="1575945210870" duration="839000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-
 public class FireWeapon : MonoBehaviour
 {
     public ApplyForce ammo;
@@ -9,6 +8,8 @@ public class FireWeapon : MonoBehaviour
         if (Input.GetButtonDown("Fire1"))
         {
             Instantiate(ammo,transform.position, Quaternion.identity);
+            
+            
         }
     }
 }
