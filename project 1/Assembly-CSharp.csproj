@@ -76,7 +76,8 @@
     <Compile Include="Assets\Scripts\FireWeapon.cs" />
     <Compile Include="Assets\Scripts\Flip.cs" />
     <Compile Include="Assets\Scripts\Functions.cs" />
-    <Compile Include="Assets\Scripts\Health.cs" />
+    <Compile Include="Assets\Scripts\HealthSystem.cs" />
+    <Compile Include="Assets\Scripts\Heart.cs" />
     <Compile Include="Assets\Scripts\IfStatments.cs" />
     <Compile Include="Assets\Scripts\Lists.cs" />
     <Compile Include="Assets\Scripts\MouseEvents.cs" />
