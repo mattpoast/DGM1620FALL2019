@@ -24,12 +24,13 @@
           </e>
           <e p="DeBugger.cs" t="Include" />
           <e p="DebuggerHandler.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
           <e p="enumSwitch.cs" t="Include" />
           <e p="FireWeapon.cs" t="Include" />
           <e p="flip.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
+          <e p="HealthPack.cs" t="Include" />
           <e p="HealthSystem.cs" t="Include" />
-          <e p="Heart.cs" t="Include" />
           <e p="IfStatments.cs" t="Include" />
           <e p="Lists.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
