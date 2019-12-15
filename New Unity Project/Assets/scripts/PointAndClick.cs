@@ -21,7 +21,7 @@ public class PointAndClick : MonoBehaviour
             }
         }
 
-         void PrintName(GameObject go)
+        void PrintName(GameObject go)
         {
             print(go.name);
 
