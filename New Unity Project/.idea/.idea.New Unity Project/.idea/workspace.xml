@@ -13,11 +13,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/PointAndClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/CursorOver.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/scripts/PointAndClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/CursorOver.cs" />
       </list>
     </option>
   </component>
@@ -69,6 +71,7 @@
       <updated>1576173518380</updated>
       <workItem from="1576173522805" duration="1701000" />
       <workItem from="1576443664104" duration="259000" />
+      <workItem from="1576636669180" duration="2467000" />
     </task>
     <servers />
   </component>
