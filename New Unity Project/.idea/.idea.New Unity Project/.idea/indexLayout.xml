@@ -17,7 +17,9 @@
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>
+      <Path>new scene.app</Path>
       <Path>obj</Path>
+      <Path>point and click scene.app</Path>
     </explicitExcludes>
   </component>
 </project>

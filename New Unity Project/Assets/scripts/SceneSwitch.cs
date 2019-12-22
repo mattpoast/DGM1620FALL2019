@@ -1,16 +1,14 @@
-﻿using System;
-using UnityEngine;
-using UnityEngine.Analytics;
+﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SceneSwitch : MonoBehaviour
 {
-    public bool sceneSwitch;
-    
-    private void OnMouseDown(SceneSwitch)
+    private void OnMouseDown()
     {
-        if (sceneSwitch = true)
-        {
-            CutsceneStart
-        }
+        SceneManager.LoadScene(1);
     }
 }
+
+
+    
+
