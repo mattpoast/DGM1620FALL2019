@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="Assets\scripts\CursorOver.cs" />
     <Compile Include="Assets\scripts\PointAndClick.cs" />
+    <Compile Include="Assets\scripts\SceneSwitch.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/mattpoast/Desktop/Repo/DGM1620FALL2019/New Unity Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

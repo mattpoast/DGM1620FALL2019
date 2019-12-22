@@ -7,6 +7,7 @@
         <e p="scripts" t="Include">
           <e p="CursorOver.cs" t="Include" />
           <e p="PointAndClick.cs" t="Include" />
+          <e p="SceneSwitch.cs" t="Include" />
         </e>
       </e>
       <e p="New Unity Project.sln" t="IncludeFlat" />

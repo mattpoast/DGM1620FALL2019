@@ -327,8 +327,9 @@ GameObject:
   - component: {fileID: 851057813}
   - component: {fileID: 851057812}
   - component: {fileID: 851057811}
+  - component: {fileID: 851057815}
   m_Layer: 0
-  m_Name: sphere 2
+  m_Name: switchToCutScene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -400,12 +401,24 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 851057810}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.87, y: 0.55, z: -0.09833879}
-  m_LocalScale: {x: 4.8254, y: 4.8254, z: 4.8254}
+  m_LocalPosition: {x: 11.62, y: 1.56, z: -0.09833879}
+  m_LocalScale: {x: 2.2824142, y: 2.2824142, z: 2.2824142}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &851057815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 851057810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed59cac15cb7b4726b8853126b077584, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &893000731
 GameObject:
   m_ObjectHideFlags: 0

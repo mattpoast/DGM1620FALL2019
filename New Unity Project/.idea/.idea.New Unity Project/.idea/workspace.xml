@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/scripts/PointAndClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CursorOver.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -20,6 +21,7 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/scripts/PointAndClick.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CursorOver.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" />
       </list>
     </option>
   </component>
@@ -73,6 +75,7 @@
       <workItem from="1576443664104" duration="259000" />
       <workItem from="1576636669180" duration="2891000" />
       <workItem from="1576735028524" duration="400000" />
+      <workItem from="1576979313480" duration="308000" />
     </task>
     <servers />
   </component>
