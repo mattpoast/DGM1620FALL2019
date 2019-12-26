@@ -4,9 +4,9 @@ using UnityEngine.UI;
 
 public class ItemMenu : MonoBehaviour
 {
- public Vector2 dbPosition;
+ public float seconds = 3f;
+ private WaitForSeconds wfsObj;
  public GameObject dashBoard;
-
  private void Start()
  {
   dashBoard.gameObject.SetActive(false);
@@ -15,8 +15,7 @@ public class ItemMenu : MonoBehaviour
  public void OnMouseEnter()
  {
   dashBoard.gameObject.SetActive(true);
-  dashBoard.transform.Translate(dbPosition);
-  
+  wfsObj = new WaitForSeconds(seconds);
  }
 
  private void OnMouseExit()

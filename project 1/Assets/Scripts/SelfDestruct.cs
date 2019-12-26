@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-
 public class SelfDestruct : MonoBehaviour
 {
     public float delay = 3f;
@@ -7,7 +6,6 @@ public class SelfDestruct : MonoBehaviour
     {
         Destroy(gameObject, delay);
     }
-
     public void DestroyOnImpact()
     {
         Destroy(gameObject);
