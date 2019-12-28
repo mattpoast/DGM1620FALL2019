@@ -15,11 +15,17 @@ public class ItemMenu : MonoBehaviour
  public void OnMouseEnter()
  {
   dashBoard.gameObject.SetActive(true);
+ }
+
+ public void OnMouseDown()
+ {
   menuButton.gameObject.SetActive(true);
  }
+
  private void OnMouseExit()
  {
   dashBoard.gameObject.SetActive(false);
-  menuButton.gameObject.SetActive(false);
  }
+
+
 }
