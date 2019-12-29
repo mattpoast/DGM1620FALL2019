@@ -7,6 +7,7 @@
         <e p="scripts" t="Include">
           <e p="CursorOver.cs" t="Include" />
           <e p="ItemMenu.cs" t="Include" />
+          <e p="Pause.cs" t="Include" />
           <e p="PointAndClick.cs" t="Include" />
           <e p="SceneSwitch.cs" t="Include" />
         </e>
