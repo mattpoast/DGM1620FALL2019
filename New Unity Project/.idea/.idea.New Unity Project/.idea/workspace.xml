@@ -14,6 +14,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../project 1/Assets/Scripts/SelfDestruct.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Pause.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/NewPause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/PointAndClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" root0="FORCE_HIGHLIGHTING" />
@@ -30,6 +31,7 @@
         <option value="$PROJECT_DIR$/../project 1/Assets/Scripts/SelfDestruct.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Pause.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/NewPause.cs" />
       </list>
     </option>
   </component>
@@ -89,6 +91,7 @@
       <workItem from="1577476327452" duration="1250000" />
       <workItem from="1577575224134" duration="1384000" />
       <workItem from="1577651650263" duration="644000" />
+      <workItem from="1577761545136" duration="400000" />
     </task>
     <servers />
   </component>
