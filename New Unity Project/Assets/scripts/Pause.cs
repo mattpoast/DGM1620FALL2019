@@ -1,19 +1,32 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEditor;
+using UnityEngine;
 
 public class Pause : MonoBehaviour
 {
+    public GameObject pauseScreen;
     private bool pause = false;
 
-    public void pauseGame()
+    private void Start()
     {
-        if (pause)
+        pauseScreen.gameObject.SetActive(false);
+    }
+
+    void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            Time.timeScale = 1;
-            pause = false;
-        }
-        else
-        {
-            Time.timeScale = 0;
+            pauseScreen.gameObject.SetActive(true);
+            if (pause)
+            {
+                Time.timeScale = 1;
+            }
+            else
+            {
+                pauseScreen.gameObject.SetActive(false);
+                Time.timeScale = 0;
+                pause = !pause;
+            }
         }
     }
 }
