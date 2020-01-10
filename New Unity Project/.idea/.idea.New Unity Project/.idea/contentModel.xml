@@ -8,9 +8,9 @@
           <e p="CursorOver.cs" t="Include" />
           <e p="ItemMenu.cs" t="Include" />
           <e p="Pause.cs" t="Include" />
+          <e p="PlayGame.cs" t="Include" />
           <e p="PointAndClick.cs" t="Include" />
           <e p="SceneSwitch.cs" t="Include" />
-          <e p="startScreen.cs" t="Include" />
         </e>
       </e>
       <e p="New Unity Project.sln" t="IncludeFlat" />

@@ -3,8 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class SceneSwitch : MonoBehaviour
 {
-    private void OnMouseDown()
-    {
+     void OnMouseDown()
+    { 
         SceneManager.LoadScene(1);
     }
 }
