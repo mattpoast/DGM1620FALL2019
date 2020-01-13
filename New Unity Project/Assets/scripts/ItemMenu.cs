@@ -6,6 +6,7 @@ public class ItemMenu : MonoBehaviour
 {
  public GameObject dashBoard;
  public GameObject menuButton;
+ public Animation itemMenuPop;
  private void Start()
  {
   dashBoard.gameObject.SetActive(false);
@@ -15,6 +16,8 @@ public class ItemMenu : MonoBehaviour
  public void OnMouseEnter()
  {
   dashBoard.gameObject.SetActive(true);
+
+  GetComponent<Animation>();
  }
 
  public void OnMouseDown()

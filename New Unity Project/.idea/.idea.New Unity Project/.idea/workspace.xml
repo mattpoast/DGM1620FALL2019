@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc4efb4c-09e1-4b65-b7d1-f451481c7e43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,12 +31,12 @@
         <option value="$PROJECT_DIR$/Assets/scripts/PointAndClick.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CursorOver.cs" />
         <option value="$PROJECT_DIR$/../project 1/Assets/Scripts/SelfDestruct.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/NewPause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Pause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/startScreen.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/PlayGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" />
       </list>
     </option>
   </component>
@@ -101,7 +99,7 @@
       <workItem from="1577761545136" duration="400000" />
       <workItem from="1578372105351" duration="1217000" />
       <workItem from="1578550816877" duration="1023000" />
-      <workItem from="1578624930862" duration="260000" />
+      <workItem from="1578624930862" duration="915000" />
     </task>
     <servers />
   </component>
