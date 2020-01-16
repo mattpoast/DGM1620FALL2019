@@ -363,6 +363,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultMouse: {fileID: 2800000, guid: 58f43b688c522461687d73e70db6a7cb, type: 3}
   objectMouse: {fileID: 2800000, guid: 13a854180791a4a8597a38785b29d94b, type: 3}
+  downClick: {fileID: 0}
   hotSpot: {x: 0, y: 0}
   curMode: 0
 --- !u!1 &519420028
@@ -532,6 +533,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultMouse: {fileID: 2800000, guid: 58f43b688c522461687d73e70db6a7cb, type: 3}
   objectMouse: {fileID: 2800000, guid: 13a854180791a4a8597a38785b29d94b, type: 3}
+  downClick: {fileID: 0}
   hotSpot: {x: 0, y: 0}
   curMode: 0
 --- !u!4 &837027490
@@ -667,6 +669,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultMouse: {fileID: 2800000, guid: 58f43b688c522461687d73e70db6a7cb, type: 3}
   objectMouse: {fileID: 2800000, guid: 13a854180791a4a8597a38785b29d94b, type: 3}
+  downClick: {fileID: 0}
   hotSpot: {x: 0, y: 0}
   curMode: 0
 --- !u!1 &893000731
@@ -777,6 +780,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultMouse: {fileID: 2800000, guid: 58f43b688c522461687d73e70db6a7cb, type: 3}
   objectMouse: {fileID: 2800000, guid: 13a854180791a4a8597a38785b29d94b, type: 3}
+  downClick: {fileID: 0}
   hotSpot: {x: 0, y: 0}
   curMode: 0
 --- !u!1 &1418135739
@@ -824,6 +828,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dashBoard: {fileID: 223692928}
   menuButton: {fileID: 2081762918}
+  itemMenuPop: {fileID: 0}
 --- !u!4 &1418135742
 Transform:
   m_ObjectHideFlags: 0
@@ -1164,6 +1169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultMouse: {fileID: 2800000, guid: 58f43b688c522461687d73e70db6a7cb, type: 3}
   objectMouse: {fileID: 2800000, guid: 13a854180791a4a8597a38785b29d94b, type: 3}
+  downClick: {fileID: 0}
   hotSpot: {x: 0, y: 0}
   curMode: 0
 --- !u!4 &2135631887

@@ -3,7 +3,10 @@ guid: abb6010e771a845eba6b44cf4ddf549a
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - defaultMouse: {fileID: 2800000, guid: 58f43b688c522461687d73e70db6a7cb, type: 3}
+  - objectMouse: {fileID: 2800000, guid: 13a854180791a4a8597a38785b29d94b, type: 3}
+  - downClick: {fileID: 10912, guid: 0000000000000000f000000000000000, type: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
