@@ -6,7 +6,6 @@ public class CursorOver : MonoBehaviour
 {
  public Texture2D defaultMouse;
  public Texture2D objectMouse;
- public Texture2D downClick;
  public Vector2 hotSpot = Vector2.zero;
  public CursorMode curMode = CursorMode.Auto;
 
@@ -26,14 +25,6 @@ public class CursorOver : MonoBehaviour
  private void OnMouseExit()
  {
   Cursor.SetCursor(defaultMouse, hotSpot, curMode);
- }
-
- public void OnMouseDown()
- {
-  if (Input.GetMouseButtonDown(0)) ;
-  {
-   Cursor.SetCursor(downClick, hotSpot, curMode);
-  }
  }
 }
 
