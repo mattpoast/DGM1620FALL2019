@@ -12,6 +12,7 @@
           <e p="PlayGame.cs" t="Include" />
           <e p="PointAndClick.cs" t="Include" />
           <e p="SceneSwitch.cs" t="Include" />
+          <e p="TestScript.cs" t="Include" />
         </e>
       </e>
       <e p="New Unity Project.sln" t="IncludeFlat" />

@@ -13,13 +13,15 @@ public class DownClick : MonoBehaviour
     {
         Cursor.SetCursor(defaultMouse, hotSpot, curMode);
     }
-
-
-    private void OnMouseDown()
+    void Update()
     {
-        if (Input.GetMouseButtonDown(0)) ;
+        if (Input.GetMouseButton(0))
         {
             Cursor.SetCursor(clicking, hotSpot, curMode);
+        }
+        else
+        {
+            Cursor.SetCursor(defaultMouse, hotSpot, curMode);
         }
     }
 }
