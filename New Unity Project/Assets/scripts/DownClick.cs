@@ -1,17 +1,26 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEditor.Experimental.UIElements.GraphView;
+using UnityEngine;
 
 public class DownClick : MonoBehaviour
 {
     public Texture2D clicking;
+    public Texture2D defaultMouse;
     public Vector2 hotSpot = Vector2.zero;
     public CursorMode curMode = CursorMode.Auto;
 
-    void Update()
+    private void Start()
     {
-        if (Input.GetMouseButtonDown(0));
+        Cursor.SetCursor(defaultMouse, hotSpot, curMode);
+    }
+
+
+    private void OnMouseDown()
+    {
+        if (Input.GetMouseButtonDown(0)) ;
         {
-           Cursor.SetCursor(clicking, hotSpot, curMode);
+            Cursor.SetCursor(clicking, hotSpot, curMode);
         }
-        
     }
 }
+

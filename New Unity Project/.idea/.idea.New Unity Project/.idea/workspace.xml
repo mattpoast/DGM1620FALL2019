@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="cc4efb4c-09e1-4b65-b7d1-f451481c7e43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/CursorOver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CursorOver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/CursorOver.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CursorOver.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/art/Finger.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/art/Finger.jpeg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/DownClick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/DownClick.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +41,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ChangeCursor.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/DownClick.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CursorOver.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/DownClick.cs" />
       </list>
     </option>
   </component>
@@ -108,6 +109,7 @@
       <workItem from="1578962613445" duration="265000" />
       <workItem from="1579028082361" duration="953000" />
       <workItem from="1579154742159" duration="1543000" />
+      <workItem from="1579451734195" duration="1580000" />
     </task>
     <servers />
   </component>
