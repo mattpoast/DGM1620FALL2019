@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/StartUpScene.unity
     guid: bbdeff7e98ba5414c95266262bf60b40
+  - enabled: 1
+    path: Assets/MagnifingGlass .unity
+    guid: a903db7caf5114dd9af967b62579aac0
   m_configObjects: {}

@@ -7,11 +7,15 @@
         <e p="scripts" t="Include">
           <e p="CursorOver.cs" t="Include" />
           <e p="DownClick.cs" t="Include" />
+          <e p="FollowMouse.cs" t="Include" />
           <e p="ItemMenu.cs" t="Include" />
           <e p="Pause.cs" t="Include" />
-          <e p="PlayGame.cs" t="Include" />
           <e p="PointAndClick.cs" t="Include" />
-          <e p="SceneSwitch.cs" t="Include" />
+          <e p="SceneSwitchers" t="Include">
+            <e p="BackArrow.cs" t="Include" />
+            <e p="PlayGame.cs" t="Include" />
+            <e p="SceneSwitch.cs" t="Include" />
+          </e>
           <e p="TestScript.cs" t="Include" />
         </e>
       </e>
