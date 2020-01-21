@@ -5,6 +5,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/PlayGame.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/PlayGame.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,7 +117,7 @@
       <workItem from="1578962613445" duration="265000" />
       <workItem from="1579028082361" duration="953000" />
       <workItem from="1579154742159" duration="1543000" />
-      <workItem from="1579451734195" duration="4738000" />
+      <workItem from="1579451734195" duration="4857000" />
     </task>
     <servers />
   </component>
