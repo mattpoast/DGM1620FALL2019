@@ -9,6 +9,7 @@
           <e p="DownClick.cs" t="Include" />
           <e p="FollowMouse.cs" t="Include" />
           <e p="ItemMenu.cs" t="Include" />
+          <e p="MenuButton.cs" t="Include" />
           <e p="Pause.cs" t="Include" />
           <e p="PointAndClick.cs" t="Include" />
           <e p="SceneSwitchers" t="Include">

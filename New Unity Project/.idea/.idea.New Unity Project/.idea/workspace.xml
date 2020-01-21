@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc4efb4c-09e1-4b65-b7d1-f451481c7e43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/FollowMouse.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/FollowMouse.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +22,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Pause.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CursorOver.cs.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/FollowMouse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/MenuButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/DownClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/PointAndClick.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,13 +41,14 @@
         <option value="$PROJECT_DIR$/Assets/scripts/startScreen.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/PlayGame.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/SceneSwitch.cs" />
-        <option value="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/ChangeCursor.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CursorOver.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/TestScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/DownClick.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/BackArrow.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/FollowMouse.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/MenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" />
       </list>
     </option>
   </component>
@@ -111,7 +116,7 @@
       <workItem from="1579028082361" duration="953000" />
       <workItem from="1579154742159" duration="1543000" />
       <workItem from="1579451734195" duration="4857000" />
-      <workItem from="1579584931217" duration="1403000" />
+      <workItem from="1579584931217" duration="3580000" />
     </task>
     <servers />
   </component>
