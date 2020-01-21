@@ -1,13 +1,11 @@
 ﻿using UnityEngine;
-
 public class FollowMouse : MonoBehaviour
 {
-    private Vector2 mousePosition;
-    void Start()
+    public Texture2D xRay;
+    private CursorMode curMode = CursorMode.Auto;
+    private Vector2 hotSpot = Vector2.zero;
+    private void OnMouseEnter()
     {
-        
-    }
-    void Update()
-    {
+        Cursor.SetCursor(xRay, hotSpot, curMode);
     }
 }
