@@ -285,7 +285,7 @@ Transform:
   m_LocalScale: {x: 0.173732, y: 0.173732, z: 0.173732}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!65 &541799620
 BoxCollider:
@@ -300,7 +300,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 12.42, y: 13.6, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &648522204
+--- !u!1 &1346482233
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -308,22 +308,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 648522206}
-  - component: {fileID: 648522205}
+  - component: {fileID: 1346482235}
+  - component: {fileID: 1346482234}
   m_Layer: 0
-  m_Name: defaultMouse
+  m_Name: dumpsterScene
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!212 &648522205
+--- !u!212 &1346482234
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 648522204}
+  m_GameObject: {fileID: 1346482233}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -354,28 +354,28 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 58f43b688c522461687d73e70db6a7cb, type: 3}
+  m_Sprite: {fileID: 21300000, guid: aa26a0a4fb2a04c3cb61df52b8b62b5a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.25, y: 2.25}
+  m_Size: {x: 19.2, y: 10.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!4 &648522206
+--- !u!4 &1346482235
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 648522204}
+  m_GameObject: {fileID: 1346482233}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.19, y: -1.25, z: 0}
-  m_LocalScale: {x: 5.605, y: 5.605, z: 5.605}
+  m_LocalPosition: {x: -0.17082095, y: -0.13462722, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
