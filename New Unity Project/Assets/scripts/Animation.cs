@@ -1,11 +1,13 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Video;
 
 public class Animation : MonoBehaviour
 {
-    public Animation dumpster;
+    public VideoClip dumpster;
+
     private void OnMouseDown()
     {
-        GetComponent<Animation>();
+        VideoPlayer.Instantiate(dumpster);
     }
 }
