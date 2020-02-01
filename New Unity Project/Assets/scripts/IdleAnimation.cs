@@ -23,5 +23,14 @@ public class IdleAnimation : MonoBehaviour
             idleObject.gameObject.SetActive(false);
         }
 
+        if (waiting >= 7f)
+        {
+            waiting = 0f;
+        }
+        waiting += 1f;
+        if (Input.anyKeyDown)
+        {
+            waiting = 0f;
+        }
     }
 }
