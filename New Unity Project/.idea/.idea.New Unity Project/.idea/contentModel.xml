@@ -13,6 +13,7 @@
           <e p="ItemMenu.cs" t="Include" />
           <e p="MenuButton.cs" t="Include" />
           <e p="Pause.cs" t="Include" />
+          <e p="Pause2.cs" t="Include" />
           <e p="PointAndClick.cs" t="Include" />
           <e p="SceneSwitchers" t="Include">
             <e p="BackArrow.cs" t="Include" />
