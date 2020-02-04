@@ -610,6 +610,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   screen: 0
+  pauser: {fileID: 1812897033}
 --- !u!136 &1812897035
 CapsuleCollider:
   m_ObjectHideFlags: 0

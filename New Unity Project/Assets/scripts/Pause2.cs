@@ -1,12 +1,13 @@
-﻿using UnityEngine;
+﻿using System.Text;
+using UnityEngine;
 
 public class Pause2 : MonoBehaviour
 {
     public bool screen;
-
+    public GameObject pauser;
     void Start()
     {
-        screen = false;
+        pauser.gameObject.SetActive(false);
     }
 
     void Update()
@@ -14,6 +15,10 @@ public class Pause2 : MonoBehaviour
         Input.GetKeyDown(KeyCode.Space);
         {
             screen = true;
+        }
+        if (screen = true)
+        {
+            pauser.gameObject.SetActive(true);
         }
     }
 }
