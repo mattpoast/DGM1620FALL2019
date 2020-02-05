@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc4efb4c-09e1-4b65-b7d1-f451481c7e43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/Pause2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Pause2.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -128,6 +127,7 @@
       <workItem from="1580537673830" duration="1129000" />
       <workItem from="1580709544104" duration="1308000" />
       <workItem from="1580796031095" duration="228000" />
+      <workItem from="1580881200987" duration="269000" />
     </task>
     <servers />
   </component>

@@ -377,7 +377,6 @@ GameObject:
   - component: {fileID: 519420030}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
-  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -461,19 +460,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &519420033
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 26deea56b40d3436ab05df5451354596, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pauseScreen: {fileID: 1827198672}
 --- !u!1 &837027486
 GameObject:
   m_ObjectHideFlags: 0
@@ -947,6 +933,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1827198674}
   - component: {fileID: 1827198673}
+  - component: {fileID: 1827198675}
   m_Layer: 0
   m_Name: Finger
   m_TagString: Untagged
@@ -1016,6 +1003,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1827198675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1827198672}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f8555b66809d473f8020a5449d5a052, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  screen: 0
+  pauser: {fileID: 1827198672}
 --- !u!1 &2081762918
 GameObject:
   m_ObjectHideFlags: 0
