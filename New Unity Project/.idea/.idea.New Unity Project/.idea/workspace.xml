@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc4efb4c-09e1-4b65-b7d1-f451481c7e43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Pause2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Pause2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +23,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/FollowMouse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/DownClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Tryforanimation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CursorOver.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/TestScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SceneSwitchers/BackArrow.cs" root0="FORCE_HIGHLIGHTING" />
@@ -53,6 +57,8 @@
         <option value="$PROJECT_DIR$/Assets/scripts/IdleAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Pause.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Pause2.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Tryforanimation.cs" />
       </list>
     </option>
   </component>
@@ -127,7 +133,7 @@
       <workItem from="1580537673830" duration="1129000" />
       <workItem from="1580709544104" duration="1308000" />
       <workItem from="1580796031095" duration="228000" />
-      <workItem from="1580881200987" duration="269000" />
+      <workItem from="1580881200987" duration="1729000" />
     </task>
     <servers />
   </component>
