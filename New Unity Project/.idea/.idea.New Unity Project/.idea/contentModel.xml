@@ -12,6 +12,7 @@
           <e p="IdleAnimation.cs" t="Include" />
           <e p="ItemMenu.cs" t="Include" />
           <e p="MenuButton.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
           <e p="pause" t="Include">
             <e p="Pause.cs" t="Include" />
             <e p="Pause2.cs" t="Include" />
