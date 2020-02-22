@@ -8,5 +8,10 @@ public class Movement : MonoBehaviour
         {
             transform.position += transform.TransformDirection(Vector3.right) * Time.deltaTime * movmentSpeed;
         }
+
+        if (Input.GetKey("a"))
+        {
+            transform.position += Vector3.left * Time.deltaTime * movmentSpeed;
+        }
     }
 }
