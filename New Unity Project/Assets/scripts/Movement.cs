@@ -2,6 +2,7 @@
 public class Movement : MonoBehaviour
 {
     public float movmentSpeed;
+    public float jumpPower;
     void Update()
     {
         if (Input.GetKey("d"))
@@ -12,6 +13,11 @@ public class Movement : MonoBehaviour
         if (Input.GetKey("a"))
         {
             transform.position += Vector3.left * Time.deltaTime * movmentSpeed;
+        }
+
+        if (Input.GetKey("w"))
+        {
+            transform.position += Vector3.up * Time.deltaTime * jumpPower;
         }
     }
 }
