@@ -19,5 +19,15 @@ public class Movement : MonoBehaviour
         {
             transform.position += Vector3.up * Time.deltaTime * jumpPower;
         }
+
+        if (Input.GetKey("s"))
+        {
+            transform.position += Vector3.down * Time.deltaTime * movmentSpeed;
+        }
+
+        if (Input.GetKey(KeyCode.Space))
+        {
+            transform.localScale += Vector3.down;
+        }
     }
 }
