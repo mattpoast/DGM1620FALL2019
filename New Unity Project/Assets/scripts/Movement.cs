@@ -29,5 +29,10 @@ public class Movement : MonoBehaviour
         {
             transform.localScale += Vector3.down;
         }
+
+        if (Input.GetKey("f"))
+        {
+            transform.localScale -= Vector3.down;
+        }
     }
 }
