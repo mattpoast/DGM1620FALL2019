@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cc4efb4c-09e1-4b65-b7d1-f451481c7e43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/Movement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/../project 1/Assets/Scripts/SelfDestruct.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CursorOver.cs.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/FollowMouse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/sound.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/DownClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,6 +58,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/NewBehaviourScript.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Tryforanimation.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/sound.cs" />
       </list>
     </option>
   </component>
@@ -140,6 +141,7 @@
       <workItem from="1582692953998" duration="275000" />
       <workItem from="1583128107484" duration="260000" />
       <workItem from="1583301006149" duration="138000" />
+      <workItem from="1583387718151" duration="496000" />
     </task>
     <servers />
   </component>
