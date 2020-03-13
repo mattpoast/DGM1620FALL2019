@@ -3,6 +3,7 @@
 public class movment : MonoBehaviour
 {
     public float moveSpeed = 5f;
+    public float jumpPower = 10f;
     void Update()
     {
         if (Input.GetKey("a"))
@@ -24,5 +25,11 @@ public class movment : MonoBehaviour
         {
             transform.position += transform.TransformDirection(Vector3.back) * Time.deltaTime * moveSpeed;
         }
+
+        if (Input.GetKey("space"))
+        {
+            transform.position += transform.TransformDirection(Vector3.up) * Time.deltaTime * jumpPower;
+        }
+            
     }
 }
