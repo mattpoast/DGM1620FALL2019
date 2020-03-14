@@ -3,7 +3,7 @@
 public class movment : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float jumpPower = 10f;
+    public float jumpPower = 50f;
     void Update()
     {
         if (Input.GetKey("a"))
