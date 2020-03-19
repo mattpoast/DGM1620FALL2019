@@ -57,7 +57,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\movment.cs" />
+    <Compile Include="Assets\scripts\firstPerson.cs" />
+    <Compile Include="Assets\scripts\movment.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/mattpoast/Desktop/Repo/DGM1620FALL2019/3d_progect/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
