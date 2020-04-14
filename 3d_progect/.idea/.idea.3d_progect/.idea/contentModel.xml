@@ -9,6 +9,7 @@
           <e p="enterRoom.cs" t="Include" />
           <e p="firstPerson.cs" t="Include" />
           <e p="movment.cs" t="Include" />
+          <e p="sitoncouch.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
