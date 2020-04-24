@@ -6,6 +6,7 @@
       <e p="Assets" t="Include">
         <e p="scripts" t="Include">
           <e p="Animation.cs" t="Include" />
+          <e p="characterclick.cs" t="Include" />
           <e p="CursorOver.cs" t="Include" />
           <e p="DownClick.cs" t="Include" />
           <e p="FollowMouse.cs" t="Include" />
