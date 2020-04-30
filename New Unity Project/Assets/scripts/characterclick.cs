@@ -7,7 +7,6 @@ public class characterclick : MonoBehaviour
     public GameObject button;
     private void OnMouseDown()
     {
-        Vector3 rotateTowards;
-        rotateTowards = Vector3.RotateTowards(current: button);
+        transform.position = Vector3.left;
     }
 }
