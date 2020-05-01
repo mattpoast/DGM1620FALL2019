@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc4efb4c-09e1-4b65-b7d1-f451481c7e43" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/characterclick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/characterclick.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StartUpScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StartUpScene.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +22,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CursorOver.cs.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/FollowMouse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/sound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/SceneSwitchers/backbutton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/DownClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/SceneSwitchers/SceneSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ItemMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/Tryforanimation.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/CursorOver.cs" root0="FORCE_HIGHLIGHTING" />
@@ -61,6 +66,7 @@
         <option value="$PROJECT_DIR$/Assets/scripts/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/sound.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/characterclick.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/SceneSwitchers/backbutton.cs" />
       </list>
     </option>
   </component>
@@ -146,7 +152,8 @@
       <workItem from="1583387718151" duration="496000" />
       <workItem from="1583813331525" duration="505000" />
       <workItem from="1587705044496" duration="176000" />
-      <workItem from="1588224258281" duration="346000" />
+      <workItem from="1588224258281" duration="471000" />
+      <workItem from="1588355230807" duration="111000" />
     </task>
     <servers />
   </component>

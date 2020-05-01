@@ -260,6 +260,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 023da3d0b97424b509e02aa6a4c4de95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  turn: {x: 0, y: 0, z: 0}
+  button: {fileID: 0}
 --- !u!65 &858963956
 BoxCollider:
   m_ObjectHideFlags: 0

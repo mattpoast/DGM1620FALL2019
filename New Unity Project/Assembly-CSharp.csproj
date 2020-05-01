@@ -70,6 +70,7 @@
     <Compile Include="Assets\scripts\pause\Pause2.cs" />
     <Compile Include="Assets\scripts\PointAndClick.cs" />
     <Compile Include="Assets\scripts\SceneSwitchers\BackArrow.cs" />
+    <Compile Include="Assets\scripts\SceneSwitchers\backbutton.cs" />
     <Compile Include="Assets\scripts\SceneSwitchers\PlayGame.cs" />
     <Compile Include="Assets\scripts\SceneSwitchers\SceneSwitch.cs" />
     <Compile Include="Assets\scripts\sound.cs" />
